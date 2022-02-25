@@ -1,0 +1,17 @@
+.name_of_objects, #result_object_name, #result_object_accuracy
+{
+ color:aqua;
+ font-style: oblique;
+ font-weight:bolder;
+}
+#camera
+{
+    border: 10px solid rgb(53, 213, 197);
+    width: 10000px;
+    height: 200px;
+}
+body
+{
+    background: rgb(11,141,236);
+background: linear-gradient(90deg, rgba(11,141,236,0.9970780276180653) 0%, rgba(221,46,228,1) 42%, rgba(255,142,0,1) 74%);
+}
